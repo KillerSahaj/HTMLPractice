@@ -1,3 +1,5 @@
-h1{background-color:red}
-p{font-weight:bold;color:DodgerBlue}
-h4{background-color:#ed702b;font-style:italic}
+p{font-style:italic;font-size:30px}
+
+a:hover{background-color:yellow;}
+
+h1{font-style:italic}
